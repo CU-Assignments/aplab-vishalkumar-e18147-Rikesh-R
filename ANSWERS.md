@@ -1,4 +1,4 @@
-<p>answer for Longest Nice Substring: ![image](https://github.com/user-attachments/assets/b681fdfe-a413-497f-9d21-5e5ff269dcf1)</p>
+answer for Longest Nice Substring: ![image](https://github.com/user-attachments/assets/b681fdfe-a413-497f-9d21-5e5ff269dcf1)
 
 answer for Reverse Bits: ![image](https://github.com/user-attachments/assets/2660d963-194b-431f-b719-76e108e28236)
 
